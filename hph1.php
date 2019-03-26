@@ -1,3 +1,0 @@
-<HTML>
-  <document></document>
-</HTML>
