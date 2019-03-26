@@ -1,0 +1,7 @@
+新建一个MyList的类，用来处理增删改查，通过多态来实现。
+
+其中对象为Object，在UserManager中的
+public UserManager（）{
+  nums = 0;
+  users = new MyList(size);
+}
