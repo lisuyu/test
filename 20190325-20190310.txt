@@ -1,0 +1,33 @@
+20190326
+
+
+github的使用，修改hosts，使使用github的速度加快
+
+在http://tool.chinaz.com/dns上测试github TTL值比较下的ip地址（这里推介使用美国设置）
+
+然后修改hosts文件（Win+R，输入 C:\Windows\System32\drivers\etc）
+
+添加
+
+192.30.255.113 github.com
+
+以上为IP，IP以测试结果为准
+
+
+
+
+
+
+
+20190327
+
+使用IDEA，bilibili收藏：黑马程序员-IDEA快速使用入门视频非常有用
+
+idea中Gitlab项目导入导出
+
+	Gitlab的使用
+
+
+
+
+password is not saved and used only to acquire Github token
