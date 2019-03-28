@@ -1,0 +1,7 @@
+打开控制面板
+
+删除mysql安装目录的所有文件 C:\Program File\MySQL
+
+删除mysql数据存放文件 C:\ProgramData\MySQL
+
+删除注册表（自行百度）
